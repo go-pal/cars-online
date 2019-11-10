@@ -8,4 +8,4 @@ https://go-pal.github.io/cars-online/
 
 [Gopal Bhatt](http://gopaldbhatt.com.np/)
 #### Dhiraj Phykhurel
-#### Bikesh Shrestha
+#### Prashant Sharma
